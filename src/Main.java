@@ -14,7 +14,9 @@ public class Main {
         AdamX.temp="12344231 celcius";
         AdamX.size="32942Km";
 
-
+        Money obj1 = new Money();
+        obj1.currencyName="dollar";
+        System.out.println("ola");
 
 
 
