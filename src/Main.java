@@ -16,6 +16,7 @@ public class Main {
 
         Money obj1 = new Money();
         obj1.currencyName="dollar";
+        System.out.println("ola");
 
 
 
